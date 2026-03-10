@@ -49,7 +49,7 @@
                 <groupId>net.ltgt.gwt.maven</groupId>
                 <artifactId>gwt-maven-plugin</artifactId>
                 <inherited>false</inherited>
-                <version>1.1.0</version>
+                <version>1.2.0</version>
                 <configuration>
                     <launcherDir>${project.build.directory}/LEGv8_Simulator/gwt/launcherDir</launcherDir>
                     <!-- To be able to use gwt:devmode (useful on Windows where Ctrl+C won't kill gwt:codeserver)-->
